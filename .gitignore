@@ -1,5 +1,5 @@
 ##Project-Wide
-*.plist
+Keys.plist
 Test.txt
 .DS_Store
 
