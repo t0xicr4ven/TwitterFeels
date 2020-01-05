@@ -1,6 +1,7 @@
 ##Project-Wide
-*Keys.plist
-
+Keys.plist
+Test.txt
+.DS_Store
 
 ## User settings
 xcuserdata/
