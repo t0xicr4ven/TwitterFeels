@@ -1,0 +1,1 @@
+This app uses machine learning to gauge the sentiment of things you search on twitter.
